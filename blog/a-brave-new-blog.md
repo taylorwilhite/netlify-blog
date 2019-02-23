@@ -1,5 +1,5 @@
 ---
-path: /brave-new-blog
+path: /blog/brave-new-blog
 date: 2019-02-23T23:01:24.226Z
 title: A brave new Blog
 ---
